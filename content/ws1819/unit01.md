@@ -72,6 +72,8 @@ beforehand.
 
 ![npp](npp.png)
 
+{{% alert info %}}Notepad++ is not mandatory. But it is the only text editor we provide support for.{{% /alert %}}
+
 ## Python / Anaconda
 
 [Donwload link](https://www.anaconda.com/)
