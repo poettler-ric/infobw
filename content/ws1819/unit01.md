@@ -187,3 +187,10 @@ Palme LMS
 Sie erreichen uns unter: https://palme.iicm.tugraz.at
 ```
 
+# Prerequisite for next unit
+
+- Variables
+- Datatypes
+
+Check units from from previous year or lecture materials.
+
